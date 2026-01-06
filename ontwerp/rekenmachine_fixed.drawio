@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net">
+  <diagram name="CalculatorDiagram">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="Calculator&#10;+ add()&#10;+ subtract()&#10;+ multiply()&#10;+ divide()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="180" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="Display&#10;+ show()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="180" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="Input&#10;+ getNumber()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="180" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="Memory&#10;+ store()&#10;+ recall()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="180" height="70" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
